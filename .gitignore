@@ -1,6 +1,22 @@
-venv/
+# Python
 __pycache__/
 *.pyc
-results/
-data/
-.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# OS files
+.DS_Store
+
+# Large data folders
+data/raw/
+data/processed/
+
+# Model weights
+models/*.h5
+models/*.pt
+models/*.pth
+
+# VSCode
+.vscode/
