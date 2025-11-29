@@ -1,0 +1,28 @@
+# Deep Learning Framework
+tensorflow==2.16.1
+
+# Data processing & utilities
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+opencv-python==4.8.0.76
+Pillow==10.0.0
+
+# Visualization & notebooks
+matplotlib==3.7.0
+seaborn==0.12.2
+notebook==6.5.4
+jupyterlab==4.0.6
+
+# Training helpers / explainability / deployment
+tqdm==4.66.1
+grad-cam==1.4.7
+fastapi==0.96.0
+uvicorn==0.23.0
+streamlit==1.25.0
+
+# Optional (for model versioning or larger infra)
+pytest==7.4.0
+black==24.1.0
+flake8==6.0.0
+gitpython==3.1.31
