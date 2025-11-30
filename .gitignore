@@ -20,3 +20,9 @@ models/*.pth
 
 # VSCode
 .vscode/
+
+models/*.keras
+models/*.h5
+models/*.pt
+models/*.pth
+models/*.ckpt
